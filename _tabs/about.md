@@ -48,7 +48,7 @@ order: 1
 - Training incoming lab members on current protocols
 
 **Researcher                  |          Chatham University        |         (_Aug 2021 - Aug 2023_)**
-- Culturing of SH-SY5Y neuroblastoma cells for cytoxicity testing, Western blotting and ELISA
+- Culturing of SH-SY5Y neuroblastoma cells for cytotoxicity testing, Western blotting and ELISA
 - Data analysis with ImageJ, figure preparation, literature search, and manuscript preparation
 - PowerPoint and poster presentations given on results
 - Training incoming undergraduate students that joined the lab
