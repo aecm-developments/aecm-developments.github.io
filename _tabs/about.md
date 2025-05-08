@@ -48,10 +48,10 @@ order: 1
 - Training incoming lab members on current protocols
 
 **Researcher                  |          Chatham University        |         (_Aug 2021 - Aug 2023_)**
-- Culturing of SH-SY5Y neuroblastoma cells for cytotoxicity testing, Western blotting and ELISA
+- Cultured SH-SY5Y neuroblastoma cells for cytotoxicity testing, Western blotting and ELISA
 - Data analysis with ImageJ, figure preparation, literature search, and manuscript preparation
 - PowerPoint and poster presentations given on results
-- Training incoming undergraduate students that joined the lab
+- Trained incoming undergraduate students that joined the lab
 
 **Genetics Tutor               |        Chatham University             |     (_Sept 2022 - Dec 2022_)**
 - Held individual and small group meetings to review study material for students
@@ -80,7 +80,7 @@ order: 1
 - Printed and copied documents for faculty and staff, prepared brochures, sorted incoming mail, answered switchboard, and records destruction
 
 **Day Care Aide      |   Mount Aloysius College Little People's Place     |   (_May 2018 - May 2020_)**
-- Instructing 2-5 year-old children with age-appropriate lessons and supervision during outdoor play activities
+- Instructed 2-5 year-old children with age-appropriate lessons and supervision during outdoor play activities
 
 
 ## College Projects
